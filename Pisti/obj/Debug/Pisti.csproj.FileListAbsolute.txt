@@ -1,0 +1,12 @@
+C:\Users\Özgür\Desktop\pisti\Pisti\Pisti\bin\Debug\Pisti.exe.config
+C:\Users\Özgür\Desktop\pisti\Pisti\Pisti\bin\Debug\Pisti.exe
+C:\Users\Özgür\Desktop\pisti\Pisti\Pisti\bin\Debug\Pisti.pdb
+C:\Users\Özgür\Desktop\pisti\Pisti\Pisti\obj\Debug\Pisti.csproj.AssemblyReference.cache
+C:\Users\Özgür\Desktop\pisti\Pisti\Pisti\obj\Debug\Pisti.csproj.SuggestedBindingRedirects.cache
+C:\Users\Özgür\Desktop\pisti\Pisti\Pisti\obj\Debug\Pisti.Form1.resources
+C:\Users\Özgür\Desktop\pisti\Pisti\Pisti\obj\Debug\Pisti.Properties.Resources.resources
+C:\Users\Özgür\Desktop\pisti\Pisti\Pisti\obj\Debug\Pisti.csproj.GenerateResource.cache
+C:\Users\Özgür\Desktop\pisti\Pisti\Pisti\obj\Debug\Pisti.csproj.CoreCompileInputs.cache
+C:\Users\Özgür\Desktop\pisti\Pisti\Pisti\obj\Debug\Pisti.exe
+C:\Users\Özgür\Desktop\pisti\Pisti\Pisti\obj\Debug\Pisti.pdb
+C:\Users\Özgür\Desktop\pisti\Pisti\Pisti\obj\Debug\Pisti.pisti.resources
